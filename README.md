@@ -75,3 +75,6 @@ Les **design patterns** sont des solutions éprouvées pour des problèmes coura
 
 ### **🚀 Conclusion**
 Les design patterns sont des outils **puissants** pour structurer et optimiser votre code. Choisissez **le bon pattern** en fonction du **problème que vous souhaitez résoudre** ! 🎯
+
+---
+### Pour aller plus loin : https://refactoring.guru/fr/design-patterns/catalog
